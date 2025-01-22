@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Student. Developer. Professional overthinker.
 🔭 I’m currently working on web programming projects.<br>🌱 I’m currently learning Python for bioinformatics. <br>⚡ Fun fact: I have a background in chemistry and biology, and when I’m not programming, I enjoy exploring tech news, playing video games, playing the piano, and watching films.
 
 
